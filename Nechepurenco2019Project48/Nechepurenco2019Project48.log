@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.18)  26 FEB 2019 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.18)  27 FEB 2019 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1481,39 +1481,40 @@ Normal \count register pool exhausted, switching to extended pool.
 \c@Rule=\count305
 \c@Condition=\count306
 )
-(./Nechepurenco2019Project48.aux)
+No file Nechepurenco2019Project48.aux.
 \openout1 = `Nechepurenco2019Project48.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 17.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Package xypdf Info: Line width: 0.47998pt on input line 17.
+Package xypdf Info: Line width: 0.47998pt on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1533,32 +1534,42 @@ Package xypdf Info: Line width: 0.47998pt on input line 17.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.15} into 
 your preamble.
- on input line 17.
+ on input line 52.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 40.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 40.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 53.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (16.86916pt too wide) in paragraph at lines 42--44
-[]\T2A/cmr/m/n/12 Работу над ста-тьјй удоб-но на-чи-нать с ре-дак-ти-ро-ва-ния 
-файла-образца [][]\T2A/cmtt/m/n/12 jmlda-example.tex[]\T2A/cmr/m/n/12 . 
- []
+
+LaTeX Warning: Citation `author09anyscience' on page 1 undefined on input line 
+61.
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 60--63
-[]\T2A/cmr/m/n/12 Если ста-тья на-пи-са-на по-английски, то это на-до ука-зать 
-яв-но, сра-зу по-сле
- []
+LaTeX Warning: Citation `myHandbook' on page 1 undefined on input line 61.
+
+
+LaTeX Warning: Citation `author09first-word-of-the-title' on page 1 undefined o
+n input line 61.
+
+
+LaTeX Warning: Citation `voron06latex' on page 1 undefined on input line 61.
+
+
+LaTeX Warning: Citation `author-and-co2007' on page 1 undefined on input line 6
+1.
+
+
+LaTeX Warning: Citation `Lvovsky03' on page 1 undefined on input line 61.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1575,227 +1586,79 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 10000) has occurred while \output is active
 
- []
-
-[2]
-
-LaTeX Warning: Reference `eqCases' on page 3 undefined on input line 217.
+LaTeX Warning: Reference `eq:cases' on page 2 undefined on input line 144.
 
 
-LaTeX Warning: Reference `TabExample' on page 3 undefined on input line 264.
+LaTeX Warning: Reference `eq:R(F)' on page 2 undefined on input line 144.
 
-
-LaTeX Warning: Reference `TabExample' on page 3 undefined on input line 284.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[3]
 Package epstopdf Info: Source file: <figExample1.eps>
 (epstopdf)                    date: 2013-03-22 14:51:18
 (epstopdf)                    size: 114595 bytes
 (epstopdf)             Output file: <figExample1-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-26 19:10:06
+(epstopdf)                    date: 2019-02-27 16:54:42
 (epstopdf)                    size: 7697 bytes
 (epstopdf)             Command: <repstopdf --outfile=figExample1-eps-converted-
 to.pdf figExample1.eps>
-(epstopdf)             \includegraphics on input line 289.
+(epstopdf)             \includegraphics on input line 154.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figExample1-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figExample1-eps-converted-to.pdf, id=39, 659.46375pt x 427.5975pt>
+<figExample1-eps-converted-to.pdf, id=29, 659.46375pt x 427.5975pt>
 File: figExample1-eps-converted-to.pdf Graphic file (type pdf)
 <use figExample1-eps-converted-to.pdf>
-Package pdftex.def Info: figExample1-eps-converted-to.pdf  used on input line 2
-89.
+Package pdftex.def Info: figExample1-eps-converted-to.pdf  used on input line 1
+54.
 (pdftex.def)             Requested size: 241.84842pt x 156.81233pt.
 Package epstopdf Info: Source file: <figExample2.eps>
 (epstopdf)                    date: 2013-03-22 14:51:20
 (epstopdf)                    size: 173167 bytes
 (epstopdf)             Output file: <figExample2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-26 19:10:07
+(epstopdf)                    date: 2019-02-27 16:54:42
 (epstopdf)                    size: 8549 bytes
 (epstopdf)             Command: <repstopdf --outfile=figExample2-eps-converted-
 to.pdf figExample2.eps>
-(epstopdf)             \includegraphics on input line 290.
+(epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figExample2-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figExample2-eps-converted-to.pdf, id=40, 661.47125pt x 428.60126pt>
+<figExample2-eps-converted-to.pdf, id=30, 661.47125pt x 428.60126pt>
 File: figExample2-eps-converted-to.pdf Graphic file (type pdf)
 <use figExample2-eps-converted-to.pdf>
-Package pdftex.def Info: figExample2-eps-converted-to.pdf  used on input line 2
-90.
+Package pdftex.def Info: figExample2-eps-converted-to.pdf  used on input line 1
+55.
 (pdftex.def)             Requested size: 241.84842pt x 156.70302pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--291
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
 
  []
 
 
-LaTeX Warning: Reference `fg:Example' on page 4 undefined on input line 295.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (4.00906pt too wide) in paragraph at lines 313--313
-[]  \T2A/cmtt/m/n/12 \subfloat[Первый рисунок]{\includegraphics[width=0.5\textw
-idth]{figExample1}}[] 
- []
+LaTeX Warning: Reference `fg:Example' on page 2 undefined on input line 160.
 
 
-Overfull \hbox (16.35605pt too wide) in paragraph at lines 313--313
-[]  \T2A/cmtt/m/n/12 \subfloat[Второй рисунок]{\includegraphics[width=0.5\textw
-idth]{figExample2}}\\[] 
- []
+LaTeX Warning: Reference `TabExample' on page 2 undefined on input line 163.
 
+No file Nechepurenco2019Project48.bbl.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[4 <./figExample1-eps-converted-to.pdf> <./figExample2-eps-converted-to.pdf>]
-Overfull \hbox (40.60846pt too wide) in paragraph at lines 333--333
- []\T2A/cmtt/m/n/12 xlabel('Time, $\xi$', 'FontSize', 24, 'FontName', 'Times', 
-'Interpreter','latex');[] 
- []
-
-
-Overfull \hbox (34.43497pt too wide) in paragraph at lines 333--333
- []\T2A/cmtt/m/n/12 ylabel('Value, $y$', 'FontSize', 24, 'FontName', 'Times', '
-Interpreter','latex');[] 
- []
-
-
-LaTeX Warning: Reference `fg:ExampleInk' on page 5 undefined on input line 355.
-
-
-Package epstopdf Info: Source file: <figExample3.eps>
-(epstopdf)                    date: 2013-03-22 14:51:20
-(epstopdf)                    size: 89510 bytes
-(epstopdf)             Output file: <figExample3-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-26 19:10:07
-(epstopdf)                    size: 23348 bytes
-(epstopdf)             Command: <repstopdf --outfile=figExample3-eps-converted-
-to.pdf figExample3.eps>
-(epstopdf)             \includegraphics on input line 358.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: /usr/bin/pdflatex (file ./figExample3-eps-converted-to.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figExample3-eps-converted-to.pdf, id=65, 500.87125pt x 314.17375pt>
-File: figExample3-eps-converted-to.pdf Graphic file (type pdf)
-<use figExample3-eps-converted-to.pdf>
-Package pdftex.def Info: figExample3-eps-converted-to.pdf  used on input line 3
-58.
-(pdftex.def)             Requested size: 241.84842pt x 151.70293pt.
-Package epstopdf Info: Source file: <figExample4.eps>
-(epstopdf)                    date: 2013-03-22 14:51:20
-(epstopdf)                    size: 79979 bytes
-(epstopdf)             Output file: <figExample4-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-26 19:10:07
-(epstopdf)                    size: 17172 bytes
-(epstopdf)             Command: <repstopdf --outfile=figExample4-eps-converted-
-to.pdf figExample4.eps>
-(epstopdf)             \includegraphics on input line 359.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: /usr/bin/pdflatex (file ./figExample4-eps-converted-to.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figExample4-eps-converted-to.pdf, id=66, 511.9125pt x 337.26pt>
-File: figExample4-eps-converted-to.pdf Graphic file (type pdf)
-<use figExample4-eps-converted-to.pdf>
-Package pdftex.def Info: figExample4-eps-converted-to.pdf  used on input line 3
-59.
-(pdftex.def)             Requested size: 241.84842pt x 159.3356pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--360
-
- []
-
-
-Overfull \hbox (0.99976pt too wide) in paragraph at lines 374--374
-\T2A/cmr/bx/n/12 1.10   [] 
- []
-
-
+[2]
 Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[5 <./figExample3-eps-converted-to.pdf> <./figExample4-eps-converted-to.pdf>]
-Overfull \hbox (0.99976pt too wide) in paragraph at lines 397--397
-\T2A/cmr/bx/n/12 1.11   [] 
- []
-
-
-Overfull \hbox (36.76027pt too wide) in paragraph at lines 414--417
-[]\T2A/cmr/m/n/12 Для каж-дой ста-тьи в сбор-ни-ке по умол-ча-нию опре-де-ле-ны
- две мет-ки [][]\T2A/cmtt/m/n/12 \globallabel{[]\T2A/cmr/m/it/12 file[][]\T2A/c
-mtt/m/n/12 :begin}
- []
-
-
-Overfull \hbox (0.99976pt too wide) in paragraph at lines 418--418
-\T2A/cmr/bx/n/12 1.12   [] 
- []
-
-
-Underfull \hbox (badness 2512) in paragraph at lines 418--422
-\T2A/cmr/m/n/12 но-вят-ся ак-тив-ны-ми, хо-тя не под-чјр-ки-ва-ют-ся и не вы-де
--ля-ют-ся цве-том. При-мер:
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[6]
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[7]
-Overfull \hbox (3.22302pt too wide) in paragraph at lines 613--615
-[]\T2A/cmr/m/n/12 Тире от-де-ля-ет-ся от пред-ше-ству-ю-ще-го тек-ста нераз-рыв
--ным про-бе-лом: [][]\T2A/cmtt/m/n/12 Знание~--- сила[]\T2A/cmr/m/n/12 . 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[8]
-
-LaTeX Warning: Reference `exExample' on page 9 undefined on input line 676.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[9]
-Overfull \hbox (25.55655pt too wide) in paragraph at lines 753--753
-[]    \T2A/cmtt/m/n/10.95 \BibJournal{10-th Int'l. Conf. on Anyscience}, 2009. 
-Vol.\,11, No.\,1.  Pp.\,111--122.[] 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[10] (./Nechepurenco2019Project48.aux)
+[3 <./figExample1-eps-converted-to.pdf> <./figExample2-eps-converted-to.pdf>]
+(./Nechepurenco2019Project48.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1804,48 +1667,40 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 29474 strings out of 492982
- 670376 string characters out of 6134896
- 896857 words of memory out of 5000000
- 32302 multiletter control sequences out of 15000+600000
- 44607 words of font info for 123 fonts, out of 8000000 for 9000
+ 29372 strings out of 492982
+ 668794 string characters out of 6134896
+ 897857 words of memory out of 5000000
+ 32247 multiletter control sequences out of 15000+600000
+ 33134 words of font info for 92 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 69i,17n,98p,3262b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,13n,98p,3268b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-mextra/cmmib8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super
-/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-fsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-sx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sft
-i1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Nechepurenco2019Project48.pdf (10 pages, 566334 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx12
+00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm120
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfsx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sftt1200.pfb>
+Output written on Nechepurenco2019Project48.pdf (3 pages, 351328 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
+ 144 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
