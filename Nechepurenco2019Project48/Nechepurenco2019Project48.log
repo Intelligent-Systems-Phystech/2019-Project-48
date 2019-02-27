@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.18)  27 FEB 2019 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.18)  27 FEB 2019 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1596,12 +1596,15 @@ Package epstopdf Info: Source file: <figExample1.eps>
 (epstopdf)                    date: 2013-03-22 14:51:18
 (epstopdf)                    size: 114595 bytes
 (epstopdf)             Output file: <figExample1-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-27 16:54:42
-(epstopdf)                    size: 7697 bytes
 (epstopdf)             Command: <repstopdf --outfile=figExample1-eps-converted-
 to.pdf figExample1.eps>
 (epstopdf)             \includegraphics on input line 154.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=figExample1-eps-converted-to.pdf figExample1.eps)
+...executed safely (allowed).
+
+Package epstopdf Info: Result file: <figExample1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-27 21:28:44
+(epstopdf)                    size: 7697 bytes.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figExample1-eps-converted-to.pdf): PD
@@ -1616,12 +1619,15 @@ Package epstopdf Info: Source file: <figExample2.eps>
 (epstopdf)                    date: 2013-03-22 14:51:20
 (epstopdf)                    size: 173167 bytes
 (epstopdf)             Output file: <figExample2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-27 16:54:42
-(epstopdf)                    size: 8549 bytes
 (epstopdf)             Command: <repstopdf --outfile=figExample2-eps-converted-
 to.pdf figExample2.eps>
 (epstopdf)             \includegraphics on input line 155.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=figExample2-eps-converted-to.pdf figExample2.eps)
+...executed safely (allowed).
+
+Package epstopdf Info: Result file: <figExample2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-27 21:28:44
+(epstopdf)                    size: 8549 bytes.
 
 
 pdfTeX warning: /usr/bin/pdflatex (file ./figExample2-eps-converted-to.pdf): PD
